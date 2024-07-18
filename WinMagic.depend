@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1584209022 source:c:\projects\winmagic\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1721337029 c:\projects\winmagic\resource.h
+
+1721337029 source:c:\projects\winmagic\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
